@@ -98,6 +98,7 @@ To package your application as a standalone executable, follow these steps:
 Here is a sample picture of the application:
 
 - **Main Interface**:
+  
   ![Main Interface](Screenshot.png)
 
 ## License
