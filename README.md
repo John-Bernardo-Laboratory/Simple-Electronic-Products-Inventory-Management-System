@@ -15,7 +15,6 @@ This project is a Python-based application for managing electronic products in a
    ```bash
    python --version
    ```
-   
 ### 2. Install Visual Studio Code (VSCode)
 
 1. **Download VSCode**: 
@@ -41,7 +40,6 @@ This project is a Python-based application for managing electronic products in a
      ```bash
      pip install pillow ttkthemes
      ```
-
 3. **Open Your Project Folder**:
    - Click on `File` > `Open Folder...`.
    - Navigate to and select the folder containing your project files.
