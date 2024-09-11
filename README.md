@@ -15,7 +15,7 @@ The application tracks various details about electronic products with the follow
 - **Current**: Current specification of the product.
 - **Category**: Category or type of the product.
 - **Quantity**: Number of units available in inventory.
-- **Condition**: Condition of the product (e.g., New, Used, Refurbished).
+- **Condition**: Condition of the product (e.g., New, Used, For Disposal).
 - **Tag**: Additional tag or label for the product (e.g., special notes or categories).
 
 ## Installation Instructions
