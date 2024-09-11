@@ -71,7 +71,7 @@ To package your application as a standalone executable, follow these steps:
      ```
 
 2. **Create the Executable**:
-   - Run the following command to generate an executable file for Windows:
+   - In the VSCode terminal, run the following command to generate an executable file for Windows:
 
      ```bash
      pyinstaller --onefile --icon=icon.ico --add-data "icon.ico;." --add-data "logo.png;." --add-data "database.db;." --noconsole GUI.py
