@@ -1,4 +1,4 @@
-# Electronic Products Inventory
+# Simple Electronic Products Inventory Management System
 
 ## Overview
 
@@ -15,6 +15,7 @@ This project is a Python-based application for managing electronic products in a
    ```bash
    python --version
    ```
+   
 ### 2. Install Visual Studio Code (VSCode)
 
 1. **Download VSCode**: 
@@ -56,11 +57,6 @@ This project is a Python-based application for managing electronic products in a
    - In VSCode, open the main Python script (e.g., `GUI.py`).
    - To run the script, you can either press `F5` to start debugging or use `Ctrl+Alt+N` if you have Code Runner installed.
    - Ensure the program runs correctly and performs as expected.
-
-
-
-
-
 
 ## Creating a Standalone Executable
 
