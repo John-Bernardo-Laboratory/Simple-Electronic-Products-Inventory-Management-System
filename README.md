@@ -4,6 +4,20 @@
 
 This project is a Python-based application for managing electronic products in an inventory. It uses Tkinter for the GUI and SQLite for database operations.
 
+## Available Columns
+
+The application tracks various details about electronic products with the following columns:
+
+- **CPN No.**: Unique identifier or part number for each product.
+- **Product Name**: Name of the electronic product.
+- **Product Model**: Model number or designation of the product.
+- **Voltage**: Voltage specification of the product.
+- **Current**: Current specification of the product.
+- **Category**: Category or type of the product.
+- **Quantity**: Number of units available in inventory.
+- **Condition**: Condition of the product (e.g., New, Used, Refurbished).
+- **Tag**: Additional tag or label for the product (e.g., special notes or categories).
+
 ## Installation Instructions
 
 ### 1. Install Python
