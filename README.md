@@ -92,3 +92,7 @@ To package your application as a standalone executable, follow these steps:
 
 4. **Distribute Your Application**:
    - You can now distribute the executable file to others, who will be able to run the application without needing to install Python or the required libraries.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
