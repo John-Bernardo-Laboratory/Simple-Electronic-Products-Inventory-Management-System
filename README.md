@@ -15,7 +15,6 @@ This project is a Python-based application for managing electronic products in a
    ```bash
    python --version
    ```
-   
 ### 2. Install Visual Studio Code (VSCode)
 
 1. **Download VSCode**: 
