@@ -88,6 +88,7 @@ To package your application as a standalone executable, follow these steps:
 
 3. **Locate the Executable**:
    - After running the PyInstaller command, you can find the standalone executable in the `dist` directory within your project folder.
+   - **Copy Additional Files**: To ensure the software runs properly, copy the `icon.ico`, `logo.png`, and `database.db` files into the `dist` directory. These files are needed for the application to function correctly.
 
 4. **Distribute Your Application**:
    - You can now distribute the executable file to others, who will be able to run the application without needing to install Python or the required libraries.
