@@ -18,6 +18,14 @@ The application tracks various details about electronic products with the follow
 - **Condition**: Condition of the product (e.g., New, Used, For Disposal).
 - **Tag**: Additional tag or label for the product (e.g., special notes or categories).
 
+## Screenshot
+
+Here is a sample picture of the application:
+
+- **Main Interface**:
+  
+  ![Main Interface](Screenshot.png)
+
 ## Installation Instructions
 
 ### 1. Install Python
@@ -106,14 +114,6 @@ To package your application as a standalone executable, follow these steps:
 
 4. **Distribute Your Application**:
    - You can now distribute the executable file to others, who will be able to run the application without needing to install Python or the required libraries.
-
-## Screenshot
-
-Here is a sample picture of the application:
-
-- **Main Interface**:
-  
-  ![Main Interface](Screenshot.png)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
